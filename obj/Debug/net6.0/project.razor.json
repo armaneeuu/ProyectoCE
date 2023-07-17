@@ -18384,6 +18384,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -18399,8 +18409,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {

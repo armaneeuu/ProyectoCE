@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj": {}
+    "C:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj": {
+    "C:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj",
+        "projectUniqueName": "C:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj",
         "projectName": "ProyectoCalzadosEstrella",
-        "projectPath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj",
+        "projectPath": "C:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj",
         "packagesPath": "C:\\Users\\Armando\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\obj\\",
+        "outputPath": "C:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Armando\\AppData\\Roaming\\NuGet\\NuGet.Config"
