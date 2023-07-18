@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U7aV2b2fYP7jrHAqF7J62DFOaTQPYntgBLCGyndd8wY=",
+  "Hash": "epAK1ouZ/U4pn95wsVmZY7qww6ItDERfBdTp28jKXbg=",
   "Source": "ProyectoCalzadosEstrella",
   "BasePath": "_content/ProyectoCalzadosEstrella",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\wwwroot\\images\\P_1.JPG",
+      "SourceId": "ProyectoCalzadosEstrella",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\wwwroot\\",
+      "BasePath": "_content/ProyectoCalzadosEstrella",
+      "RelativePath": "images/P_1.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\P_1.JPG"
     },
     {
       "Identity": "C:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\wwwroot\\js\\site.js",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eMQ11jj2n1Yh/JeYvLsHkKISQM2EIO0V0WW/Ztr/Evq3kDi+W3GAc6YLcOGguR1z2QBuzvEKKL7xbdXG79u0Ew==",
+  "dgSpecHash": "DEts9e+eLNfMXibPt6INEfYng9VGAKpHCuB81hWnLvUzG8VIwFFF/xr70zFxNnJerwktAjukzr8318cSJugU4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj",
+  "projectFilePath": "c:\\Users\\Armando\\Documents\\CalzadosEstrella\\ProyectoCalzadosEstrella\\ProyectoCalzadosEstrella.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Armando\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Armando\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
